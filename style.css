@@ -2,3 +2,23 @@ html {
   height: 100%;
   width: 100%;
 }
+
+header {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+  color: #00ff00;
+  text-align: center;
+  background: #222;
+  position: relative;
+  display: inline-block;
+}
+
+body {
+  background: #333;
+}
+
+p {
+  font-family: 'arial';
+  color: white;
+}
+
